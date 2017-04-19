@@ -1,6 +1,6 @@
 
 <?php
-$host = "127.0.0.1:56044";
+$host = "127.0.0.1";
 $user = "azure";
 $pwd = "6#vWHD_$";
 $db = "localdb";
